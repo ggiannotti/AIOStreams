@@ -3,7 +3,7 @@
  *
  * Pages must use these instead of raw `recharts` primitives so every chart in
  * the dashboard shares the app's color tokens, dark mode, font and tooltip
- * styling. See the Recharts decision in the root AGENTS.md.
+ * styling. See the Recharts decision in the root CLAUDE.md.
  *
  * Colors are read from the app CSS variables (`--brand`, `--muted`,
  * `--border`, `--paper`, `--foreground`) so charts re-theme automatically.
